@@ -109,3 +109,8 @@ python predict.py
 ## Dataset
 
 This project uses the [Kaggle Medical Appointment No Shows dataset](https://www.kaggle.com/datasets/joniarroba/noshowappointments). Please review the dataset license and terms before reuse.
+
+
+## License
+
+The source code in this repository is available under the [MIT License](LICENSE). The included [Kaggle dataset](https://www.kaggle.com/datasets/joniarroba/noshowappointments) remains subject to its own license and terms of use.
